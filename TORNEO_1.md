@@ -7,7 +7,7 @@
 | Riccardo | Filippo | 1 - 3 |
 | Marco | Francesco | 3 - 0 |
 | Daniele | Riccardo | 4 - 2 |
-| Alberto | Marco | 3 - 0 |
+| Alberto | Marco | 0 - 3 |
 | Alessio | Filippo | 0 - 0 |
 | Giulio | Francesco | 3 - 0 |
 | Alessio | Riccardo | 0 - 0 |
