@@ -8,11 +8,11 @@
 | Marco | Francesco | 3 - 0 |
 | Daniele | Riccardo | 4 - 2 |
 | Alberto | Marco | 0 - 3 |
-| Alessio | Filippo | 0 - 0 |
+| Alessio | Filippo | 4 - 6 |
 | Giulio | Francesco | 3 - 0 |
 | Alessio | Riccardo | 0 - 0 |
-| Marco | Giulio | 0 - 0 |
-| Daniele | Alessio | 0 - 0 |
+| Marco | Giulio | 3 - 1 |
+| Daniele | Alessio | 1 - 3 |
 | Alberto | Francesco | 0 - 0 |
 
 
@@ -36,16 +36,16 @@
 
 | Giocatore | Punti | Gol fatti | Gol subiti
 |----------|:-------------:|------:|:------:|
-| Filippo | 2 | 6 | 1 |
-| Daniele | 1 | 4 | 5 |
+| Filippo | 2 | 12 | 5 |
+| Daniele | 1 | 5 | 8 |
 | Riccardo | 0 | 3 | 7 |
-| Alessio | 0 | 0 | 0 |
+| Alessio | 1 | 7 | 7 |
 
 ### GIRONE B
 
 | Giocatore | Punti | Gol fatti | Gol subiti
 |----------|:-------------:|------:|:------:|
-| Marco | 2 | 6 | 0 |
-| Giulio | 1 | 5 | 4 |
+| Marco | 3 | 9 | 1 |
+| Giulio | 1 | 6 | 7 |
 | Alberto | 1 | 4 | 5 |
 | Francesco | 0 | 0 | 6 |
