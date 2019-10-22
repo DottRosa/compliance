@@ -1,26 +1,3 @@
-
-GIRONI
-
-PRIMO GIRONE
-
-- Daniele
-
-- Alessio
-
-- Riccardo
-
-- Filippo
-
-SECONDO GIRONE
-
-- Marco
-
-- Giulio
-
-- Alberto
-
-- Francesco
-
 PARTITE DI ANDATA
 
 { p1: 'Daniele', p2: 'Filippo' },
