@@ -10,10 +10,10 @@
 | Alberto | Marco | 0 - 3 |
 | Alessio | Filippo | 4 - 6 |
 | Giulio | Francesco | 3 - 0 |
-| Alessio | Riccardo | 0 - 0 |
+| Alessio | Riccardo | 1 - 3 |
 | Marco | Giulio | 3 - 1 |
 | Daniele | Alessio | 1 - 3 |
-| Alberto | Francesco | 0 - 0 |
+| Alberto | Francesco | 1 - 3 |
 
 
 ## Partite di ritorno
@@ -37,9 +37,9 @@
 | Giocatore | Punti | Gol fatti | Gol subiti
 |----------|:-------------:|------:|:------:|
 | Filippo | 3 | 12 | 5 |
-| Alessio | 1 | 7 | 7 |
+| Alessio | 1 | 8 | 10 |
+| Riccardo | 1 | 6 | 8 |
 | Daniele | 1 | 5 | 8 |
-| Riccardo | 0 | 3 | 7 |
 
 
 ### GIRONE B
@@ -48,5 +48,5 @@
 |----------|:-------------:|------:|:------:|
 | Marco | 3 | 9 | 1 |
 | Giulio | 1 | 6 | 7 |
-| Alberto | 1 | 4 | 5 |
-| Francesco | 0 | 0 | 6 |
+| Alberto | 1 | 5 | 8 |
+| Francesco | 1 | 3 | 7 |
