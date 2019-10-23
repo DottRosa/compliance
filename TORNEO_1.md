@@ -37,8 +37,8 @@
 | Giocatore | Punti | Gol fatti | Gol subiti | Partite giocate
 |----------|:-------------:|------:|:------:|:---:|
 | Filippo | 5 | 18 | 6 | 5 |
-| Riccardo | 2 | 18 | 18 | 5 |
-| Alessio | 2 | 15 | 15 | 3 |
+| Riccardo | 2 | 18 | 18 | 6 |
+| Alessio | 2 | 15 | 15 | 4 |
 | Daniele | 1 | 7 | 15 | 5 |
 
 
@@ -46,10 +46,10 @@
 
 | Giocatore | Punti | Gol fatti | Gol subiti | Partite giocate
 |----------|:-------------:|------:|:------:|:---:|
-| Marco | 6 | 18 | 2 | 5 |
-| Giulio | 3 | 13 | 13 | 3 |
-| Alberto | 2 | 11 | 16 | 5 |
-| Francesco | 1 | 5 | 16 | 5 |
+| Marco | 6 | 18 | 2 | 6 |
+| Giulio | 3 | 13 | 13 | 6 |
+| Alberto | 2 | 11 | 16 | 6 |
+| Francesco | 1 | 5 | 16 | 6 |
 
 
 ### FASE FINALE
