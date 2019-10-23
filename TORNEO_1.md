@@ -19,18 +19,18 @@
 ## Partite di ritorno
 | n° | Giocatore 1 | Giocatore 2 | Esito
 |:-:|----------|:-------------:|:------:
-| 1 | Riccardo | Daniele | 0 - 0 |
+| 1 | Riccardo | Daniele | 4 - 2 |
 | 2 | Alberto | Giulio | 0 - 0 |
 | 3 | Filippo | Alessio | 0 - 0 |
-| 4 | Marco | Alberto | 0 - 0 |
+| 4 | Marco | Alberto | 3 - 1 |
 | 5 | Riccardo | Alessio | 0 - 0 |
-| 6 | Francesco | Marco | 0 - 0 |
-| 7 | Filippo | Riccardo | 0 - 0 |
+| 6 | Francesco | Marco | 0 - 3 |
+| 7 | Filippo | Riccardo | 3 - 1 |
 | 8 | Francesco | Giulio | 0 - 0 |
 | 9 | Alessio | Daniele | 0 - 0 |
 | 10 | Giulio | Marco | 0 - 0 |
-| 11 | Filippo | Daniele | 0 - 0 |
-| 12 | Francesco | Alberto | 0 - 0 |
+| 11 | Filippo | Daniele | 3 - 0 |
+| 12 | Francesco | Alberto | 1 - 3 |
 
 ### GIRONE A
 
