@@ -37,8 +37,8 @@
 | Giocatore | Punti | Gol fatti | Gol subiti | Partite giocate
 |----------|:-------------:|------:|:------:|:---:|
 | Filippo | 5 | 18 | 6 | 5 |
-| Riccardo | 2 | 16 | 18 | 6 |
 | Alessio | 2 | 15 | 15 | 4 |
+| Riccardo | 2 | 16 | 18 | 6 |
 | Daniele | 1 | 7 | 15 | 5 |
 
 
