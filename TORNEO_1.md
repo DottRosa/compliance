@@ -50,3 +50,12 @@
 | Alberto | 2 | 9 | 12 | 5 |
 | Giulio | 1 | 6 | 7 | 3 |
 | Francesco | 1 | 4 | 13 | 5 |
+
+
+### FASE FINALE
+
+#### Semifinale 1
+Marco vs -
+
+#### Semifinale 2
+Filippo vs -
