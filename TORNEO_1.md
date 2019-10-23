@@ -59,3 +59,13 @@ Marco vs -
 
 #### Semifinale 2
 Filippo vs Giulio
+
+
+
+### MINI TORNEO DEL FONDO DEI GIRONI
+
+#### Semifinale 1
+Alberto vs -
+
+#### Semifinale 2
+Francesco vs -
