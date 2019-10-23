@@ -20,15 +20,15 @@
 | n° | Giocatore 1 | Giocatore 2 | Esito
 |:-:|----------|:-------------:|:------:
 | 1 [OK] | Riccardo | Daniele | 4 - 2 |
-| 2 | Alberto | Giulio | 0 - 0 |
+| 2 | Alberto | Giulio | 2 - 4 |
 | 3 | Filippo | Alessio | 0 - 0 |
 | 4 [OK] | Marco | Alberto | 3 - 1 |
-| 5 | Riccardo | Alessio | 0 - 0 |
+| 5 | Riccardo | Alessio | 5 - 7 |
 | 6 [OK] | Francesco | Marco | 0 - 3 |
 | 7 [OK] | Filippo | Riccardo | 3 - 1 |
-| 8 | Francesco | Giulio | 0 - 0 |
+| 8 | Francesco | Giulio | 1 - 3 |
 | 9 | Alessio | Daniele | 0 - 0 |
-| 10 | Giulio | Marco | 0 - 0 |
+| 10 | Giulio | Marco | 0 - 3 |
 | 11 [OK] | Filippo | Daniele | 3 - 0 |
 | 12 [OK] | Francesco | Alberto | 1 - 3 |
 
