@@ -55,7 +55,7 @@
 ### FASE FINALE
 
 #### Semifinale 1
-Marco vs -
+Marco vs Alessio
 
 #### Semifinale 2
 Filippo vs Giulio
@@ -65,7 +65,7 @@ Filippo vs Giulio
 ### MINI TORNEO DEL FONDO DEI GIRONI
 
 #### Semifinale 1
-Alberto vs -
+Alberto vs Daniele
 
 #### Semifinale 2
-Francesco vs -
+Francesco vs Riccardo
