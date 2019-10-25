@@ -21,7 +21,7 @@
 |:-:|----------|:-------------:|:------:
 | 1 [OK] | Riccardo | Daniele | 4 - 2 |
 | 2 [OK] | Alberto | Giulio | 2 - 4 |
-| 3 | Filippo | Alessio | 0 - 0 |
+| 3 [OK] | Filippo | Alessio | 4 - 2 |
 | 4 [OK] | Marco | Alberto | 3 - 1 |
 | 5 [OK] | Riccardo | Alessio | 5 - 7 |
 | 6 [OK] | Francesco | Marco | 0 - 3 |
@@ -36,8 +36,8 @@
 
 | Giocatore | Punti | Gol fatti | Gol subiti | Partite giocate
 |----------|:-------------:|------:|:------:|:---:|
-| Filippo | 5 | 18 | 6 | 5 |
-| Alessio | 3 | 19 | 17 | 5 |
+| Filippo | 6 | 22 | 8 | 6 |
+| Alessio | 3 | 21 | 21 | 6 |
 | Riccardo | 2 | 16 | 18 | 6 |
 | Daniele | 1 | 11 | 17 | 6 |
 
@@ -55,17 +55,20 @@
 ### FASE FINALE
 
 #### Semifinale 1
-Marco vs Alessio
+Marco 6 - 2 Alessio
 
 #### Semifinale 2
-Filippo vs Giulio
+Filippo 0 - 0 Giulio
+
+#### FINALE
+Marco 0 - 0 Qualcuno
 
 
 
 ### MINI TORNEO DEL FONDO DEI GIRONI
 
 #### Semifinale 1
-Alberto vs Daniele
+Alberto 0 - 0 Daniele
 
 #### Semifinale 2
-Francesco vs Riccardo
+Francesco 0 - 0 Riccardo
