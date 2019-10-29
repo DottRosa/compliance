@@ -58,10 +58,10 @@
 Marco 6 - 2 Alessio
 
 #### Semifinale 2
-Filippo 0 - 0 Giulio
+Filippo 6 - 0 Giulio
 
 #### FINALE
-Marco 0 - 0 Qualcuno
+Marco 0 - 0 Filippo
 
 
 
