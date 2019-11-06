@@ -57,3 +57,5 @@ Non troverai neanche un errore!
 La prossima volta meglio
 Lo trova pronto
 Aneddoto time
+È sempre colpa delle invoice
+Si può fare tutto con la cli
