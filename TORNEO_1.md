@@ -61,14 +61,7 @@ Marco 6 - 2 Alessio
 Filippo 6 - 0 Giulio
 
 #### FINALE
-Marco 0 - 0 Filippo
+Marco 6 - 2 Filippo
 
-
-
-### MINI TORNEO DEL FONDO DEI GIRONI
-
-#### Semifinale 1
-Alberto 0 - 0 Daniele
-
-#### Semifinale 2
-Francesco 0 - 0 Riccardo
+## VINCITORE
+Marco
