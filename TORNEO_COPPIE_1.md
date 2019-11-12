@@ -13,5 +13,7 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 
 #### SECONDA SFIDA
 (Marco : Riccardo) VS (Filippo : Daniele)
-Prima partita
+
+
+##### Prima partita
 (Marco : Riccardo) 6 - 5 (Filippo : Daniele)
