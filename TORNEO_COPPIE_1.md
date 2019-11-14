@@ -11,6 +11,10 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 #### PRIMA SFIDA
 (Alberto : Giulio) VS (Alessio : Francesco)  
 
+##### Prima partita
+(Alberto : Giulio) 6 - 1 (Alessio : Francesco)  
+
+
 #### SECONDA SFIDA
 (Marco : Riccardo) VS (Filippo : Daniele)
 
