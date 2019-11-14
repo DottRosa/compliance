@@ -20,5 +20,5 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 |                |Marco : Riccardo  |Filippo : Daniele                         |
 |----------------|:-------------------------------:|:-----------------------------:|
 |Prima partita   | 6 | 5 |
-|Seconda partita |   |   |
+|Seconda partita | 6 | 5 |
 |Terza partita   |   |   |
