@@ -9,15 +9,16 @@ A sinistra i difensori, a destra gli attaccanti. Ruoli fissi.
 Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 
 #### PRIMA SFIDA
-(Alberto : Giulio) VS (Alessio : Francesco)  
-
-##### Prima partita
-(Alberto : Giulio) 6 - 1 (Alessio : Francesco)  
+|                |Alberto : Giulio  |Alessio : Francesco                         |
+|----------------|:-------------------------------:|:-----------------------------:|
+|Prima partita   | 6 | 1 |
+|Seconda partita |   |   |
+|Terza partita   |   |   |
 
 
 #### SECONDA SFIDA
-(Marco : Riccardo) VS (Filippo : Daniele)
-
-
-##### Prima partita
-(Marco : Riccardo) 6 - 5 (Filippo : Daniele)
+|                |Marco : Riccardo  |Filippo : Daniele                         |
+|----------------|:-------------------------------:|:-----------------------------:|
+|Prima partita   | 6 | 5 |
+|Seconda partita |   |   |
+|Terza partita   |   |   |
