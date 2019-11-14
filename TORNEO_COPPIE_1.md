@@ -22,3 +22,8 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 |Prima partita   | 6 | 5 |
 |Seconda partita | 6 | 5 |
 |Terza partita   |   |   |
+
+
+### FINALE
+
+(Marco : Riccardo) VS 
