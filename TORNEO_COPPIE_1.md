@@ -12,7 +12,7 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 |                |Alberto : Giulio  |Alessio : Francesco                         |
 |----------------|:-------------------------------:|:-----------------------------:|
 |Prima partita   | 6 | 1 |
-|Seconda partita |   |   |
+|Seconda partita | 6 | 5 |
 |Terza partita   |   |   |
 
 
@@ -26,4 +26,4 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 
 ### FINALE
 
-(Marco : Riccardo) VS 
+(Marco : Riccardo) VS (Alberto : Giulio)
