@@ -26,4 +26,9 @@ Vanno giocate 3 partite, passa il turno chi ne vince 2 su 3
 
 ### FINALE
 
-(Marco : Riccardo) VS (Alberto : Giulio)
+(Marco : Riccardo) 0 - 6 (Alberto : Giulio)
+
+
+## VINCITORI
+
+Alberto : Giulio
