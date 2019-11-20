@@ -59,3 +59,4 @@ Lo trova pronto
 Aneddoto time
 È sempre colpa delle invoice
 Si può fare tutto con la cli
+Bisogna sapere dove stare
