@@ -60,3 +60,4 @@ Aneddoto time
 È sempre colpa delle invoice
 Si può fare tutto con la cli
 Bisogna sapere dove stare
+Se si beve bene si programma bene
