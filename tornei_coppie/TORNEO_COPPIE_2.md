@@ -26,3 +26,13 @@ RITORNO
  - (Daniele : Marco) 0 - 0 (Filippo : Riccardo)
  - (Daniele : Marco) 0 - 0 (Francesco : Alessio)
  - (Giulio : Alberto) 0 - 0 (Francesco : Alessio)
+
+
+## CLASSIFICA
+
+| Coppia | Punti | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
+|--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Francesco : Alessio | 0 | 0 | 0 | 0 | 0 | 0 |
+|Filippo : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 |
+|Daniele : Marco | 0 | 0 | 0 | 0 | 0 | 0 |
+|Giulio : Alberto | 0 | 0 | 0 | 0 | 0 | 0 |
