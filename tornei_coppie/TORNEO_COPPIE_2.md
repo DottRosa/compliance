@@ -18,7 +18,7 @@ ANDATA
 #### Match
 
  - (Francesco : Alessio) 0 - 0 (Filippo : Riccardo)
- - <strong>[GIOCATA]</strong> (Daniele : Marco) 6 - 2 (Giulio : Alberto)
+ - (Daniele : Marco) 6 - 2 (Giulio : Alberto) <strong>[GIOCATA]</strong>
  - (Francesco : Alessio) 0 - 0 (Giulio : Alberto)
  - (Filippo : Riccardo) 0 - 0 (Daniele : Marco)
  - (Francesco : Alessio) 0 - 0 (Daniele : Marco)
