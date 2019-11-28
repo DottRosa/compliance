@@ -11,12 +11,14 @@
 
 ANDATA
 
-Disposizione delle coppie:
+#### Disposizione delle coppie:
  - A: Marco, D: Daniele
  - A: Giulio, D: Alberto
+ 
+#### Match
 
  - (Francesco : Alessio) 0 - 0 (Filippo : Riccardo)
- - (Daniele : Marco) 6 - 2 (Giulio : Alberto)
+ - [GIOCATA] (Daniele : Marco) 6 - 2 (Giulio : Alberto)
  - (Francesco : Alessio) 0 - 0 (Giulio : Alberto)
  - (Filippo : Riccardo) 0 - 0 (Daniele : Marco)
  - (Francesco : Alessio) 0 - 0 (Daniele : Marco)
@@ -24,6 +26,11 @@ Disposizione delle coppie:
 
 
 RITORNO
+#### Disposizione delle coppie:
+ - A: Daniele, D: Marco
+ - A: Alberto, D: Giulio
+ 
+#### Match
  - (Daniele : Marco) 0 - 0 (Francesco : Alessio)
  - (Giulio : Alberto) 0 - 0 (Daniele : Marco)
  - (Filippo : Riccardo) 0 - 0 (Francesco : Alessio)
