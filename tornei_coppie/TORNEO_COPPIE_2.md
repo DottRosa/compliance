@@ -7,6 +7,11 @@
  - Giulio : Alberto
  
  
+## REGOLAMENTO
+Partite della durata di 4 minuti. Al termine si tiene il punteggio ottenuto fino a quel momento.
+Se la partita finisce in parità le coppie ricevono un punto, altrimenti la vincente 3 punti, la perdente 0.
+La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiunge i 6 gol.
+ 
 ## PARTITE
 
 ANDATA
