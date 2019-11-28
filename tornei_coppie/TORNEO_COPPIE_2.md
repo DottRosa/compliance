@@ -12,9 +12,7 @@ Partite della durata di 4 minuti. Al termine si tiene il punteggio ottenuto fino
 Se la partita finisce in parità le coppie ricevono un punto, altrimenti la vincente 3 punti, la perdente 0.
 La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiunge i 6 gol.
  
-## PARTITE
-
-ANDATA
+## PARTITE DI ANDATA
 
 #### Disposizione delle coppie:
  - A: Marco, D: Daniele
@@ -30,7 +28,8 @@ ANDATA
   - (Filippo : Riccardo) 0 - 0 (Giulio : Alberto)
 
 
-RITORNO
+## PARTITE DI RITORNO
+
 #### Disposizione delle coppie:
  - A: Daniele, D: Marco
  - A: Alberto, D: Giulio
