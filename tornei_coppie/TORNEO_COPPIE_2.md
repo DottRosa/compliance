@@ -11,8 +11,12 @@
 
 ANDATA
 
+Disposizione delle coppie:
+ - A: Marco, D: Daniele
+ - A: Giulio, D: Alberto
+
  - (Francesco : Alessio) 0 - 0 (Filippo : Riccardo)
- - (Daniele : Marco) 0 - 0 (Giulio : Alberto)
+ - (Daniele : Marco) 6 - 2 (Giulio : Alberto)
  - (Francesco : Alessio) 0 - 0 (Giulio : Alberto)
  - (Filippo : Riccardo) 0 - 0 (Daniele : Marco)
  - (Francesco : Alessio) 0 - 0 (Daniele : Marco)
@@ -30,9 +34,10 @@ RITORNO
 
 ## CLASSIFICA
 
-| Coppia | Punti | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
-|--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Francesco : Alessio | 0 | 0 | 0 | 0 | 0 | 0 |
-|Filippo : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 |
-|Daniele : Marco | 0 | 0 | 0 | 0 | 0 | 0 |
-|Giulio : Alberto | 0 | 0 | 0 | 0 | 0 | 0 |
+| Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
+|--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Daniele : Marco | 3 | 1 | 1 | 0 | 0 | 6 | 2 |
+|Giulio : Alberto | 0 | 1 | 0 | 1 | 0 | 2 | 6 |
+|Francesco : Alessio | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|Filippo : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
