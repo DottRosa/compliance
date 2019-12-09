@@ -19,13 +19,10 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
  - A: Giulio, D: Alberto
  
 #### Match
-
- - (Francesco : Alessio) 0 - 0 (Filippo : Riccardo)
- - (Daniele : Marco) 6 - 2 (Giulio : Alberto) <strong>[GIOCATA]</strong>
- - (Francesco : Alessio) 0 - 0 (Giulio : Alberto)
- - (Filippo : Riccardo) 0 - 0 (Daniele : Marco)
- - (Francesco : Alessio) 0 - 0 (Daniele : Marco)
-  - (Filippo : Riccardo) 0 - 0 (Giulio : Alberto)
+  
+ - (Francesco : Riccardo) 0 - 0 (Giulio : Alberto)
+ - (Francesco : Riccardo) 0 - 0 (Daniele : Marco)
+ - (Daniele : Marco) 6 - 2 (Giulio : Alberto)  <strong>[GIOCATA]</strong>
 
 
 ## PARTITE DI RITORNO
@@ -35,12 +32,9 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
  - A: Alberto, D: Giulio
  
 #### Match
- - (Daniele : Marco) 0 - 0 (Francesco : Alessio)
+ - (Giulio : Alberto) 0 - 0 (Francesco : Riccardo)
  - (Giulio : Alberto) 0 - 0 (Daniele : Marco)
- - (Filippo : Riccardo) 0 - 0 (Francesco : Alessio)
- - (Giulio : Alberto) 0 - 0 (Filippo : Riccardo)
- - (Daniele : Marco) 0 - 0 (Filippo : Riccardo)
- - (Giulio : Alberto) 0 - 0 (Francesco : Alessio)
+ - (Daniele : Marco) 0 - 0 (Francesco : Riccardo)
 
 
 ## CLASSIFICA
@@ -49,6 +43,5 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Daniele : Marco | 3 | 1 | 1 | 0 | 0 | 6 | 2 |
 |Giulio : Alberto | 0 | 1 | 0 | 1 | 0 | 2 | 6 |
-|Francesco : Alessio | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-|Filippo : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|Francesco : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
