@@ -16,11 +16,12 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 #### Disposizione delle coppie:
  - A: Marco, D: Daniele
  - A: Giulio, D: Alberto
+ - A: Riccardo, D: Francesco
  
 #### Match
   
- - (Francesco : Riccardo) 0 - 0 (Giulio : Alberto)
- - (Francesco : Riccardo) 0 - 0 (Daniele : Marco)
+ - (Francesco : Riccardo) 4 - 5 (Giulio : Alberto)
+ - (Francesco : Riccardo) 0 - 6 (Daniele : Marco)
  - (Daniele : Marco) 6 - 2 (Giulio : Alberto)  <strong>[GIOCATA]</strong>
 
 
@@ -29,10 +30,11 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 #### Disposizione delle coppie:
  - A: Daniele, D: Marco
  - A: Alberto, D: Giulio
+ - A: Francesco, D: Riccardo
  
 #### Match
- - (Giulio : Alberto) 0 - 0 (Francesco : Riccardo)
  - (Giulio : Alberto) 0 - 0 (Daniele : Marco)
+ - (Giulio : Alberto) 0 - 0 (Francesco : Riccardo)
  - (Daniele : Marco) 0 - 0 (Francesco : Riccardo)
 
 
@@ -40,7 +42,7 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Daniele : Marco | 3 | 1 | 1 | 0 | 0 | 6 | 2 |
-|Giulio : Alberto | 0 | 1 | 0 | 1 | 0 | 2 | 6 |
-|Francesco : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|Daniele : Marco | 6 | 2 | 1 | 0 | 0 | 12 | 2 |
+|Giulio : Alberto | 3 | 2 | 1 | 1 | 0 | 7 | 10 |
+|Francesco : Riccardo | 0 | 2 | 0 | 0 | 0 | 4 | 11 |
 
