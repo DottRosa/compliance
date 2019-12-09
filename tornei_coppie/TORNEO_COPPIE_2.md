@@ -33,8 +33,8 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
  - A: Francesco, D: Riccardo
  
 #### Match
- - (Giulio : Alberto) 0 - 0 (Daniele : Marco)
- - (Giulio : Alberto) 0 - 0 (Francesco : Riccardo)
+ - (Giulio : Alberto) 4 - 3 (Daniele : Marco)  <strong>[GIOCATA]</strong>
+ - (Giulio : Alberto) 1 - 2 (Francesco : Riccardo)  <strong>[GIOCATA]</strong>
  - (Daniele : Marco) 6 - 5 (Francesco : Riccardo)  <strong>[GIOCATA]</strong>
 
 
@@ -42,7 +42,11 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Daniele : Marco | 9 | 3 | 3 | 0 | 0 | 18 | 7 |
-|Giulio : Alberto | 3 | 2 | 1 | 1 | 0 | 7 | 10 |
-|Francesco : Riccardo | 0 | 3 | 0 | 3 | 0 | 10 | 16 |
+|Daniele : Marco | 9 | 4 | 3 | 1 | 0 | 22 | 10 |
+|Giulio : Alberto | 6 | 4 | 2 | 2 | 0 | 11 | 15 |
+|Francesco : Riccardo | 3 | 4 | 0 | 3 | 0 | 12 | 17 |
 
+
+# VINCITORI
+
+Daniele - Marco
