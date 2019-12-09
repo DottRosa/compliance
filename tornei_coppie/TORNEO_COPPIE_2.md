@@ -1,8 +1,7 @@
 
 ## COPPIE
 
- - Francesco : Alessio
- - Filippo : Riccardo
+ - Francesco : Riccardo
  - Daniele : Marco
  - Giulio : Alberto
  
