@@ -20,8 +20,8 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
  
 #### Match
   
- - (Francesco : Riccardo) 4 - 5 (Giulio : Alberto)
- - (Francesco : Riccardo) 0 - 6 (Daniele : Marco)
+ - (Francesco : Riccardo) 4 - 5 (Giulio : Alberto)  <strong>[GIOCATA]</strong>
+ - (Francesco : Riccardo) 0 - 6 (Daniele : Marco)  <strong>[GIOCATA]</strong>
  - (Daniele : Marco) 6 - 2 (Giulio : Alberto)  <strong>[GIOCATA]</strong>
 
 
