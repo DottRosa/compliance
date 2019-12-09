@@ -44,7 +44,7 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Daniele : Marco | 9 | 4 | 3 | 1 | 0 | 22 | 10 |
 |Giulio : Alberto | 6 | 4 | 2 | 2 | 0 | 11 | 15 |
-|Francesco : Riccardo | 3 | 4 | 0 | 3 | 0 | 12 | 17 |
+|Francesco : Riccardo | 3 | 4 | 1 | 3 | 0 | 12 | 17 |
 
 
 # VINCITORI
