@@ -42,7 +42,7 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Daniele : Marco | 6 | 2 | 1 | 0 | 0 | 12 | 2 |
+|Daniele : Marco | 6 | 2 | 2 | 0 | 0 | 12 | 2 |
 |Giulio : Alberto | 3 | 2 | 1 | 1 | 0 | 7 | 10 |
-|Francesco : Riccardo | 0 | 2 | 0 | 0 | 0 | 4 | 11 |
+|Francesco : Riccardo | 0 | 2 | 0 | 2 | 0 | 4 | 11 |
 
