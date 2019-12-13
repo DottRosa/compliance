@@ -67,6 +67,7 @@
 
 
 
+## CLASSIFICA
 
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
