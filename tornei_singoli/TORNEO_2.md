@@ -64,3 +64,17 @@
 | 26 | Alessio | Filippo | 0 - 0 |
 | 27 | Giulio | Francesco | 0 - 0 |
 | 28 | Alberto | Francesco | 0 - 0 |
+
+
+
+
+| Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
+|--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Daniele | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|Filippo | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|Marco   | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|France  | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|Riccardo| 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|Alberto | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|Giulio  | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
+|Alessio | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
