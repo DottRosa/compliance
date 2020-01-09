@@ -56,6 +56,8 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 | 20 | Daniele | Marco | 0 - 0 |
 | 21 | Giulio | Alberto | 0 - 0 |
 
+
+## CLASSIFICA
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Daniele | 0     | 0        | 0        | 0        | 0        | 0        | 0        |
