@@ -46,15 +46,11 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 
 
 ## CLASSIFICA
-
-
-
-
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Daniele | 6 | 2 | 0 | 0 | 0 | 6 | 2 |
-|Giulio | 3 | 1 | 0 | 0 | 0 | 2 | 0 |
-|Marco | 3 | 2 | 0 | 1 | 0 | 3 | 5 |
-|Filippo | 3 | 2 | 0 | 1 | 0 | 5 | 3 |
+|Daniele | 6 | 2 | 2 | 0 | 0 | 6 | 2 |
+|Giulio | 3 | 1 | 1 | 0 | 0 | 2 | 0 |
+|Marco | 3 | 2 | 1 | 1 | 0 | 3 | 5 |
+|Filippo | 3 | 2 | 1 | 1 | 0 | 5 | 3 |
 |Alberto | 0 | 2 | 0 | 2 | 0 | 2 | 6 |
 |Riccardo | 0 | 1 | 0 | 1 | 0 | 0 | 2 |
