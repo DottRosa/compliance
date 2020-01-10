@@ -7,7 +7,7 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 
 ## ANDATA
 | n° | Casa | Trasferta | Esito | Giocata
-|:-:|----------|:-------------:|:------:
+|:-:|----------|:-------------:|:------:|:------:
 | 1 | Riccardo | Filippo | 0-0 |
 | 2 | Daniele | Filippo | 3-2 | X
 | 3 | Marco | Alberto | 3-2 | X
@@ -25,8 +25,8 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 | 15 | Daniele | Marco | 0-0 |
 
 ## RITORNO
-| n° | Casa | Trasferta | Esito
-|:-:|----------|:-------------:|:------:
+| n° | Casa | Trasferta | Esito | Giocata
+|:-:|----------|:-------------:|:------:|:------:
 | 1 | Filippo | Giulio | 0-0 |
 | 2 | Daniele | Alberto | 0-0 |
 | 3 | Marco | Giulio | 0-0 |
