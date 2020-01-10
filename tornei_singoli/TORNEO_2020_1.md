@@ -44,11 +44,11 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 | 15 | Giulio | Alberto | 0-0 |
 
 ## CLASSIFICA
-| Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti
-|--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Daniele | 6 | 2 | 2 | 0 | 0 | 6 | 2 |
-|Giulio | 3 | 1 | 1 | 0 | 0 | 2 | 0 |
-|Filippo | 3 | 2 | 1 | 1 | 0 | 5 | 3 |
-|Marco | 3 | 2 | 1 | 1 | 0 | 3 | 5 |
-|Riccardo | 0 | 1 | 0 | 1 | 0 | 0 | 2 |
-|Alberto | 0 | 2 | 0 | 2 | 0 | 2 | 6 |
+| Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
+|--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Daniele | 6 | 2 | 2 | 0 | 0 | 6 | 2 | 4
+|Giulio | 3 | 1 | 1 | 0 | 0 | 2 | 0 | 2
+|Filippo | 3 | 2 | 1 | 1 | 0 | 5 | 3 | 2
+|Marco | 3 | 2 | 1 | 1 | 0 | 3 | 5 | -2
+|Riccardo | 0 | 1 | 0 | 1 | 0 | 0 | 2 | -2
+|Alberto | 0 | 2 | 0 | 2 | 0 | 2 | 6 | -4
