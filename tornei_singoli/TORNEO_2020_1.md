@@ -13,7 +13,7 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 | 3 | Marco | Alberto | 3-2 | X
 | 4 | Marco | Giulio | 3-1 | X
 | 5 | Daniele | Giulio | 0-2 | X
-| 6 | Riccardo | Marco | 0-0 |
+| 6 | Riccardo | Marco | 1-3 | X
 | 7 | Daniele | Alberto | 3-0 | X
 | 8 | Riccardo | Giulio | 0-2 | X
 | 9 | Filippo | Alberto | 0-0 |
@@ -46,9 +46,9 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 ## CLASSIFICA
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Marco | 12 | 5 | 4 | 1 | 0 | 12 | 7 | 5
 |Filippo | 9 | 4 | 3 | 1 | 0 | 10 | 4 | 6
-|Marco | 9 | 4 | 3 | 1 | 0 | 9 | 6 | 3
 |Giulio | 6 | 4 | 2 | 2 | 0 | 5 | 5 | 0
 |Daniele | 6 | 4 | 2 | 2 | 0 | 6 | 7 | -1
 |Alberto | 0 | 2 | 0 | 2 | 0 | 2 | 6 | -4
-|Riccardo | 0 | 2 | 0 | 2 | 0 | 1 | 5 | -4
+|Riccardo | 0 | 3 | 0 | 3 | 0 | 2 | 8 | -6
