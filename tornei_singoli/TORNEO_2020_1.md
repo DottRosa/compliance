@@ -27,28 +27,28 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 ## RITORNO
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
-| 1 | Filippo | Giulio | 0-0 |
-| 2 | Daniele | Alberto | 0-0 |
-| 3 | Marco | Giulio | 0-0 |
-| 4 | Daniele | Giulio | 0-0 |
-| 5 | Marco | Alberto | 0-0 |
-| 6 | Riccardo | Alberto | 0-0 |
-| 7 | Riccardo | Filippo | 0-0 |
-| 8 | Filippo | Marco | 0-0 |
-| 9 | Riccardo | Giulio | 0-0 |
-| 10 | Riccardo | Marco | 0-0 |
-| 11 | Filippo | Alberto | 0-0 |
-| 12 | Daniele | Filippo | 0-0 |
-| 13 | Daniele | Riccardo | 0-0 |
-| 14 | Daniele | Marco | 0-0 |
-| 15 | Giulio | Alberto | 0-0 |
+| 1 | Giulio | Filippo | 0-0 |
+| 2 | Alberto | Daniele | 3-1 | X
+| 3 | Giulio | Marco | 0-0 |
+| 4 | Giulio | Daniele | 0-0 |
+| 5 | Alberto | Marco | 2-0 | X
+| 6 | Alberto | Riccardo | 0-0 |
+| 7 | Filippo | Riccardo | 0-0 |
+| 8 | Marco | Filippo | 0-0 |
+| 9 | Giulio | Riccardo | 0-0 |
+| 10 | Marco | Riccardo | 0-0 |
+| 11 | Alberto | Filippo | 0-0 |
+| 12 | Filippo | Daniele | 3-1 | X
+| 13 | Riccardo | Daniele | 0-0 |
+| 14 | Marco | Daniele | 0-0 |
+| 15 | Alberto | Giulio | 0-0 |
 
 ## CLASSIFICA
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Filippo | 12 | 5 | 4 | 1 | 0 | 13 | 5 | 8
-|Marco | 12 | 5 | 4 | 1 | 0 | 12 | 7 | 5
+|Filippo | 15 | 6 | 5 | 1 | 0 | 16 | 6 | 10
+|Marco | 12 | 6 | 4 | 2 | 0 | 12 | 9 | 3
 |Giulio | 9 | 5 | 3 | 2 | 0 | 8 | 5 | 3
-|Daniele | 9 | 5 | 3 | 2 | 0 | 7 | 7 | 0
+|Daniele | 9 | 7 | 3 | 4 | 0 | 9 | 13 | -4
+|Alberto | 6 | 7 | 2 | 5 | 0 | 9 | 15 | -6
 |Riccardo | 3 | 5 | 1 | 4 | 0 | 4 | 10 | -6
-|Alberto | 0 | 5 | 0 | 5 | 0 | 4 | 14 | -10
