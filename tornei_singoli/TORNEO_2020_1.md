@@ -52,3 +52,6 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 |Riccardo | 9 | 9 | 3 | 6 | 0 | 9 | 16 | -7
 |Daniele | 9 | 9 | 3 | 6 | 0 | 11 | 19 | -8
 |Alberto | 6 | 9 | 2 | 7 | 0 | 10 | 19 | -9
+
+
+:trophy: Marco
