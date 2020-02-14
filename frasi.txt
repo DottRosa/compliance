@@ -98,3 +98,4 @@ Bundì bundì mandi bundì
 Tiro una scorreggia ed esce un algoritmo
 Benedet!
 No comment be happy
+Marco esci la regex
