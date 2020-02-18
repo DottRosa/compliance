@@ -99,3 +99,5 @@ Tiro una scorreggia ed esce un algoritmo
 Benedet!
 No comment be happy
 Marco esci la regex
+Se son fix, fixeranno
+Ganciiiii
