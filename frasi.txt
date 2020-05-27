@@ -135,3 +135,4 @@ Fap please
 Io non ti faccio formazione su questo Filippo
 grunt release:hotfix
 Cambiano le malattie ma Giulio resta
+Ognuno se lo tiene in mano
