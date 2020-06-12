@@ -145,3 +145,4 @@ Meglio non andare troppo in profondità altrimenti arriverai a chiederti se effe
 Se prugni funziona
 Un Quasimodo non fa primavera
 Non vorrei tediarvi...
+Quando non ha nessun senso è docker
