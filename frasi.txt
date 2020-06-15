@@ -149,3 +149,4 @@ Quando non ha nessun senso è docker
 Hai già finito?
 Fatto?
 "Non vi sentiamo!", "Non stiamo parlando"
+È cambiato tutto!
