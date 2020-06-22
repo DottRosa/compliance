@@ -164,3 +164,4 @@ Capi in cloud
 Haimac...
 marcomongo
 Siamo in una botte di ferro
+È come un hotfix di Giulio
