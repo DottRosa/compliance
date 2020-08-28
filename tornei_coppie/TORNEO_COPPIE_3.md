@@ -11,43 +11,22 @@
 Partite della durata di 4 minuti. Al termine si tiene il punteggio ottenuto fino a quel momento.
 Se la partita finisce in parità le coppie ricevono un punto, altrimenti la vincente 3 punti, la perdente 0.
 La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiunge i 6 gol.
- 
-## PARTITE DI ANDATA
+Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 
-#### Disposizione delle coppie:
+#### Disposizione delle coppie (ANDATA):
 - [A]Marco : [D]Riccardo
 - [A]Daniele : [D]Tiziano
 - [A]Luca : [D]Alessio
 - [A]Filippo : [D]Alberto
- 
-#### Match
-  
-(Marco : Riccardo) 0 - 0 (Luca : Alessio)
-(Daniele : Tiziano) 0 - 0 (Filippo : Alberto)
-(Marco : Riccardo) 0 - 0 (Daniele : Tiziano)
-(Marco : Riccardo) 0 - 0 (Filippo : Alberto)
-(Luca : Alessio) 0 - 0 (Filippo : Alberto)
-(Daniele : Tiziano) 0 - 0 (Luca : Alessio)
 
-
-## PARTITE DI RITORNO
-
-#### Disposizione delle coppie:
+#### Disposizione delle coppie (RITORNO):
 - [A]Riccardo : [D]Marco
 - [A]Tiziano : [D]Daniele
 - [A]Alessio : [D]Luca
 - [A]Alberto : [D]Filippo
 
-#### Match
-(Luca : Alessio) 0 - 0 (Marco : Riccardo)
-(Filippo : Alberto) 0 - 0 (Daniele : Tiziano)
-(Daniele : Tiziano) 0 - 0 (Marco : Riccardo)
-(Filippo : Alberto) 0 - 0 (Marco : Riccardo)
-(Filippo : Alberto) 0 - 0 (Luca : Alessio)
-(Luca : Alessio) 0 - 0 (Daniele : Tiziano)
 
-
-## ANDATA
+## PARTITE DI ANDATA
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
 | 1 | Marco : Riccardo | Daniele : Tiziano | 0-0 |
@@ -57,7 +36,7 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 | 5 | Luca : Alessio | Marco : Riccardo | 0-0 |
 | 6 | Luca : Alessio | Filippo : Alberto | 0-0 |
 
-## RITORNO
+## PARTITE DI RITORNO
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
 | 1 | Daniele : Tiziano | Marco : Riccardo | 0-0 |
