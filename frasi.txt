@@ -266,3 +266,4 @@ Pippeina
 Minziano
 Telnet
 Like a fellon
+"Ho visto delle catene di promise che..." "sono delle belle collane"
