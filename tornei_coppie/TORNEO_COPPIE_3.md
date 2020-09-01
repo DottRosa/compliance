@@ -4,7 +4,7 @@
 
 - Marco : Riccardo
 - Daniele : Tiziano
-- Luca : Alessio
+- Michelangelo : Alessio
 - Filippo : Alberto
  
  
@@ -17,13 +17,13 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 #### Disposizione delle coppie (ANDATA):
 - [A]Marco : [D]Riccardo
 - [A]Daniele : [D]Tiziano
-- [A]Luca : [D]Alessio
+- [A]Michelangelo : [D]Alessio
 - [A]Filippo : [D]Alberto
 
 #### Disposizione delle coppie (RITORNO):
 - [A]Riccardo : [D]Marco
 - [A]Tiziano : [D]Daniele
-- [A]Alessio : [D]Luca
+- [A]Alessio : [D]Michelangelo
 - [A]Alberto : [D]Filippo
 
 
@@ -31,11 +31,11 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
 | 1 | Marco : Riccardo | Daniele : Tiziano | 0-0 |
-| 2 | Luca : Alessio | Daniele : Tiziano | 0-0 |
+| 2 | Michelangelo : Alessio | Daniele : Tiziano | 0-0 |
 | 3 | Marco : Riccardo | Filippo : Alberto | 0-0 |
 | 4 | Daniele : Tiziano | Filippo : Alberto | 0-0 |
-| 5 | Luca : Alessio | Marco : Riccardo | 0-0 |
-| 6 | Luca : Alessio | Filippo : Alberto | 0-0 |
+| 5 | Michelangelo : Alessio | Marco : Riccardo | 0-0 |
+| 6 | Michelangelo : Alessio | Filippo : Alberto | 0-0 |
 
 ## PARTITE DI RITORNO
 | n° | Casa | Trasferta | Esito | Giocata
@@ -43,14 +43,14 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 | 1 | Daniele : Tiziano | Marco : Riccardo | 0-0 |
 | 2 | Filippo : Alberto | Daniele : Tiziano | 0-0 |
 | 3 | Filippo : Alberto | Marco : Riccardo | 0-0 |
-| 4 | Daniele : Tiziano | Luca : Alessio | 0-0 |
-| 5 | Marco : Riccardo | Luca : Alessio | 0-0 |
-| 6 | Filippo : Alberto | Luca : Alessio | 0-0 |
+| 4 | Daniele : Tiziano | Michelangelo : Alessio | 0-0 |
+| 5 | Marco : Riccardo | Michelangelo : Alessio | 0-0 |
+| 6 | Filippo : Alberto | Michelangelo : Alessio | 0-0 |
 
 ## CLASSIFICA
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Filippo : Alberto | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-|Luca : Alessio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+|Michelangelo : Alessio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 |Daniele : Tiziano | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 |Marco : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
