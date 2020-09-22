@@ -32,9 +32,9 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 |:-:|----------|:-------------:|:------:|:------:
 | 1 | Marco : Riccardo | Daniele : Tiziano | 0-0 |
 | 2 | Michelangelo : Alessio | Daniele : Tiziano | 0-0 |
-| 3 | Marco : Riccardo | Filippo : Alberto | 0-0 |
+| 3 | Marco : Riccardo | Filippo : Alberto | 5-6 | X
 | 4 | Daniele : Tiziano | Filippo : Alberto | 0-0 |
-| 5 | Michelangelo : Alessio | Marco : Riccardo | 0-0 |
+| 5 | Michelangelo : Alessio | Marco : Riccardo | 2-5 | X
 | 6 | Michelangelo : Alessio | Filippo : Alberto | 0-0 |
 
 ## PARTITE DI RITORNO
