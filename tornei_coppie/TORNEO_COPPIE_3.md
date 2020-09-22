@@ -50,7 +50,7 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 ## CLASSIFICA
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Filippo : Alberto | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-|Michelangelo : Alessio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+|Marco : Riccardo | 3 | 2 | 1 | 1 | 0 | 10 | 8 | 2
+|Filippo : Alberto | 3 | 1 | 1 | 0 | 0 | 6 | 5 | 1
 |Daniele : Tiziano | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-|Marco : Riccardo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+|Michelangelo : Alessio | 0 | 1 | 0 | 1 | 0 | 2 | 5 | -3
