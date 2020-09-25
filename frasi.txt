@@ -317,4 +317,4 @@ Sono abbagliato dal troppo nouleg
 Quando farai una cosa nuova avvisami che la metto sul giornale
 Bigawayork
 Investiziano
-"Ma cosa fate su core?", "Spazi"
+"Ci sono 96 pull da fare, ma cosa fate su core?", "Spazi"
