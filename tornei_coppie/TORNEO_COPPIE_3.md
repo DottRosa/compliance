@@ -31,7 +31,7 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
 | 1 | Marco : Riccardo | Daniele : Tiziano | 4-4 | X
-| 2 | Michelangelo : Alessio | Daniele : Tiziano | 0-0 |
+| 2 | Michelangelo : Alessio | Daniele : Tiziano | 5-3 | X
 | 3 | Marco : Riccardo | Filippo : Alberto | 5-6 | X
 | 4 | Daniele : Tiziano | Filippo : Alberto | 6-2 | X
 | 5 | Michelangelo : Alessio | Marco : Riccardo | 2-5 | X
@@ -51,6 +51,6 @@ Le coppie dovranno avere ruoli invertiti nelle partite di ritorno.
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Filippo : Alberto | 6 | 3 | 2 | 1 | 0 | 14 | 12 | 2
-|Daniele : Tiziano | 4 | 2 | 1 | 0 | 1 | 10 | 6 | 4
 |Marco : Riccardo | 4 | 3 | 1 | 1 | 1 | 14 | 12 | 2
-|Michelangelo : Alessio | 0 | 2 | 0 | 2 | 0 | 3 | 11 | -8
+|Daniele : Tiziano | 4 | 3 | 1 | 1 | 1 | 13 | 11 | 2
+|Michelangelo : Alessio | 3 | 3 | 1 | 2 | 0 | 8 | 14 | -6
