@@ -1,3 +1,9 @@
+# COPPA PIPPO 2020
+
+## REGOLAMENTO
+
+Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina prima fa fede il punteggio ottenuto in quel momento e vince chi ha fatto più gol. Un pareggio vale 1 punto, 3 la vittoria e 0 la sconfitta.
+
 ## ANDATA
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
