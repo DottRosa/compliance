@@ -71,6 +71,7 @@ Partite della durata di 2 minuti. Vince chi arriva a 3 gol. Se il tempo termina 
 ## CLASSIFICA
 | Giocatore | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Georgeta | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 |Alberto | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 |Tiziano | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 |Filippo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
