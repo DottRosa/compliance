@@ -374,3 +374,4 @@ R.I.P. Rest in Pippo
 Every :pippo_felice: sing a song, :pippo_marpione::pippo_marpione:, every :pippo_felice: sing a song, :pippo::pippo:dei
 Abbiamo un'app da migrare!
 Non farmi cock blocking
+C'è un ape e non è un API
