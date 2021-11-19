@@ -13,9 +13,13 @@
  
  
 ## REGOLAMENTO
-Partite della durata di 4 minuti. Al termine si tiene il punteggio ottenuto fino a quel momento.
-Se la partita finisce in parità le coppie ricevono un punto, altrimenti la vincente 3 punti, la perdente 0.
-La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiunge i 6 gol.
+Partite della durata di 5 minuti. Il tempo non viene fermato se sono presenti tempi morti in quanto i 5 minuti
+tengono conto di quest'ultimi.
+Se il timer arriva a 0 senza che nessuna coppia abbia raggiunto i 6 gol, si continua a giocare fino a quando la pallina è gioco.
+La pallina si ritieni in gioco se è possibile effettuare un'azione su di essa attraverso i giocatori. Se la pallina esce, è impossibile da colpire,
+entra in porta regolarmente o meno, la partita termina. Un eventuale gol regolare verrà conteggiato.
+Al termine della partita se il risutlato è in parità le coppie ricevono un punto, altrimenti la vincente 3 punti, la perdente 0.
+La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiunge i 6 gol.
 
 ## ANDATA
 | n° | Casa | Trasferta | Esito | Giocata
