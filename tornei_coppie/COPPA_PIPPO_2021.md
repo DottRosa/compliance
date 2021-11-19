@@ -1,15 +1,15 @@
 ## COPPIE
 
- - Coppia del Fritto
- - Coppia Fastidio
- - Coppia dei Mammalucchi
- - Coppiziano
- - Coppia Furetti
- - Coppia Monopoly
- - Coppia Catapulta
- - Danieliziano
- - Albertiziano
- - Alberniele
+ - Coppia del Fritto (Marco & Alberto)
+ - Coppia Fastidio (Marco & Mics)
+ - Coppia dei Mammalucchi (Marco & Daniele)
+ - Coppiziano (Marco & Tiziano)
+ - Coppia Furetti (Alberto & Mics)
+ - Coppia Monopoly (Mics & Tiziano)
+ - Coppia Catapulta (Daniele & Mics)
+ - Danieliziano (Daniele & Tiziano)
+ - Albertiziano (Alberto & Tiziano)
+ - Alberniele (Alberto & Daniele)
  
  
 ## REGOLAMENTO
