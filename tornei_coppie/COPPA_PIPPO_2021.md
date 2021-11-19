@@ -29,7 +29,7 @@ La partita può terminare prima dello scadere dei 4 minuti se una coppia raggiun
 | 7 | Coppia Monopoly | Alberniele | 1-5 | X
 | 8 | Coppia Catapulta | Albertiziano | 4-5 | X
 | 9 | Coppiziano | Coppia Catapulta | 6-3 | X
-| 10 | Coppia Furetti | Danieliziano | 6-4 |
+| 10 | Coppia Furetti | Danieliziano | 6-4 | X
 | 11 | Coppia del Fritto | Coppia Catapulta | 5-6 | X
 | 12 | Coppia Fastidio | Danieliziano | 6-5 | X
 | 13 | Coppia dei Mammalucchi | Albertiziano |  |
