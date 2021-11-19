@@ -1,7 +1,7 @@
 ## COPPIE
 
  - Coppia del Fritto (Marco & Alberto)
- - Coppia Fastidio (Marco & Mics)
+ - Coppia Fastidio (Marco & Mics) *se fa stasi è pareggio*
  - Coppia dei Mammalucchi (Marco & Daniele)
  - Coppiziano (Marco & Tiziano)
  - Coppia Furetti (Alberto & Mics)
