@@ -44,12 +44,12 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
 | 1 | Coppia Fastidio | Danieliziano | 5-6 | X
-| 2 | Coppia dei Mammalucchi | Albertiziano |  |
-| 3 | Coppiziano | Coppia Furetti |  |
+| 2 | Coppia dei Mammalucchi | Albertiziano | 4-4 | X
+| 3 | Coppiziano | Coppia Furetti | 0-5 | X
 | 4 | Coppia Fastidio | Alberniele |  |
 | 5 | Coppia Catapulta | Albertiziano |  |
 | 6 | Coppiziano | Alberniele |  |
-| 7 | Coppiziano | Coppia Catapulta |  |
+| 7 | Coppiziano | Coppia Catapulta | 6-4 | X
 | 8 | Coppia del Fritto | Danieliziano |  |
 | 9 | Coppia Furetti | Danieliziano |  |
 | 10 | Coppia dei Mammalucchi | Coppia Furetti |  |
@@ -57,18 +57,18 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 | 12 | Coppia Fastidio | Albertiziano |  |
 | 13 | Coppia del Fritto | Coppia Catapulta |  |
 | 14 | Coppia Monopoly | Alberniele |  |
-| 15 | Coppia dei Mammalucchi | Coppia Monopoly |  |
+| 15 | Coppia dei Mammalucchi | Coppia Monopoly | 4-4 | X
 
 ## CLASSIFICA
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|Coppiziano | 9 | 3 | 3 | 0 | 0 | 18 | 9 | 9
+|Coppiziano | 12 | 5 | 4 | 1 | 0 | 24 | 18 | 6
 |Coppia Fastidio | 9 | 4 | 3 | 1 | 0 | 23 | 15 | 8
-|Coppia dei Mammalucchi | 6 | 3 | 2 | 1 | 0 | 15 | 6 | 9
-|Coppia Furetti | 6 | 3 | 2 | 1 | 0 | 12 | 13 | -1
+|Coppia Furetti | 9 | 4 | 3 | 1 | 0 | 17 | 13 | 4
+|Coppia dei Mammalucchi | 8 | 5 | 2 | 1 | 2 | 23 | 14 | 9
+|Coppia Monopoly | 4 | 4 | 1 | 2 | 1 | 12 | 19 | -7
+|Albertiziano | 4 | 4 | 1 | 2 | 1 | 12 | 20 | -8
 |Coppia del Fritto | 3 | 3 | 1 | 2 | 0 | 15 | 13 | 2
 |Alberniele | 3 | 3 | 1 | 2 | 0 | 11 | 13 | -2
-|Coppia Catapulta | 3 | 3 | 1 | 2 | 0 | 13 | 16 | -3
+|Coppia Catapulta | 3 | 4 | 1 | 3 | 0 | 17 | 22 | -5
 |Danieliziano | 3 | 4 | 1 | 3 | 0 | 16 | 23 | -7
-|Coppia Monopoly | 3 | 3 | 1 | 2 | 0 | 8 | 15 | -7
-|Albertiziano | 3 | 3 | 1 | 2 | 0 | 8 | 16 | -8
