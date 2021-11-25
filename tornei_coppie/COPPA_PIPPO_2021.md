@@ -36,14 +36,14 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 | 10 | Coppia Furetti | Danieliziano | 6-4 | X
 | 11 | Coppia del Fritto | Coppia Catapulta | 5-6 | X
 | 12 | Coppia Fastidio | Danieliziano | 6-5 | X
-| 13 | Coppia dei Mammalucchi | Albertiziano |  |
-| 14 | Coppia dei Mammalucchi | Coppia Furetti |  |
-| 15 | Coppia Fastidio | Alberniele |  |
+| 13 | Coppia dei Mammalucchi | Albertiziano | 6-1 | X
+| 14 | Coppia dei Mammalucchi | Coppia Furetti | 3-4 | X
+| 15 | Coppia Fastidio | Alberniele | 6-2 | X
 
 ## RITORNO
 | n° | Casa | Trasferta | Esito | Giocata
 |:-:|----------|:-------------:|:------:|:------:
-| 1 | Coppia Fastidio | Danieliziano |  |
+| 1 | Coppia Fastidio | Danieliziano | 5-6 | X
 | 2 | Coppia dei Mammalucchi | Albertiziano |  |
 | 3 | Coppiziano | Coppia Furetti |  |
 | 4 | Coppia Fastidio | Alberniele |  |
@@ -63,12 +63,12 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Coppiziano | 9 | 3 | 3 | 0 | 0 | 18 | 9 | 9
-|Coppia Fastidio | 6 | 2 | 2 | 0 | 0 | 12 | 7 | 5
-|Coppia dei Mammalucchi | 3 | 1 | 1 | 0 | 0 | 6 | 1 | 5
+|Coppia Fastidio | 9 | 4 | 3 | 1 | 0 | 23 | 15 | 8
+|Coppia dei Mammalucchi | 6 | 3 | 2 | 1 | 0 | 15 | 6 | 9
+|Coppia Furetti | 6 | 3 | 2 | 1 | 0 | 12 | 13 | -1
 |Coppia del Fritto | 3 | 3 | 1 | 2 | 0 | 15 | 13 | 2
-|Alberniele | 3 | 2 | 1 | 1 | 0 | 9 | 7 | 2
-|Coppia Furetti | 3 | 2 | 1 | 1 | 0 | 8 | 10 | -2
+|Alberniele | 3 | 3 | 1 | 2 | 0 | 11 | 13 | -2
 |Coppia Catapulta | 3 | 3 | 1 | 2 | 0 | 13 | 16 | -3
-|Albertiziano | 3 | 2 | 1 | 1 | 0 | 7 | 10 | -3
+|Danieliziano | 3 | 4 | 1 | 3 | 0 | 16 | 23 | -7
 |Coppia Monopoly | 3 | 3 | 1 | 2 | 0 | 8 | 15 | -7
-|Danieliziano | 0 | 3 | 0 | 3 | 0 | 10 | 18 | -8
+|Albertiziano | 3 | 3 | 1 | 2 | 0 | 8 | 16 | -8
