@@ -53,22 +53,25 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 | 8 | Coppia del Fritto | Danieliziano | 6-4 | X
 | 9 | Coppia Furetti | Danieliziano | 3-5 | X
 | 10 | Coppia dei Mammalucchi | Coppia Furetti | 6-2 | X
-| 11 | Coppia del Fritto | Coppia Monopoly |  |
-| 12 | Coppia Fastidio | Albertiziano |  |
-| 13 | Coppia del Fritto | Coppia Catapulta |  |
-| 14 | Coppia Monopoly | Alberniele |  |
+| 11 | Coppia del Fritto | Coppia Monopoly | 6-4 | X
+| 12 | Coppia Fastidio | Albertiziano | 6-2 | X
+| 13 | Coppia del Fritto | Coppia Catapulta | 6-1 | X
+| 14 | Coppia Monopoly | Alberniele | 1-6 | X
 | 15 | Coppia dei Mammalucchi | Coppia Monopoly | 4-4 | X
 
 ## CLASSIFICA
 | Coppia | Punti | Partite giocate | Vittorie | Sconfitte | Pareggi | Gol fatti | Gol subiti | Differenza reti
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|Coppia Fastidio | 15 | 6 | 5 | 1 | 0 | 33 | 20 | 13
 |Coppiziano | 15 | 6 | 5 | 1 | 0 | 30 | 20 | 10
-|Coppia Fastidio | 12 | 5 | 4 | 1 | 0 | 27 | 18 | 9
+|Coppia del Fritto | 12 | 6 | 4 | 2 | 0 | 33 | 22 | 11
 |Coppia dei Mammalucchi | 11 | 6 | 3 | 1 | 2 | 29 | 16 | 13
 |Coppia Furetti | 9 | 6 | 3 | 3 | 0 | 22 | 24 | -2
-|Coppia del Fritto | 6 | 4 | 2 | 2 | 0 | 21 | 17 | 4
-|Coppia Catapulta | 6 | 5 | 2 | 3 | 0 | 23 | 23 | 0
+|Alberniele | 6 | 6 | 2 | 4 | 0 | 22 | 24 | -2
+|Coppia Catapulta | 6 | 6 | 2 | 4 | 0 | 24 | 29 | -5
 |Danieliziano | 6 | 6 | 2 | 4 | 0 | 25 | 32 | -7
-|Coppia Monopoly | 4 | 4 | 1 | 2 | 1 | 12 | 19 | -7
-|Albertiziano | 4 | 5 | 1 | 3 | 1 | 13 | 26 | -13
-|Alberniele | 3 | 5 | 1 | 4 | 0 | 16 | 23 | -7
+|Coppia Monopoly | 4 | 6 | 1 | 4 | 1 | 17 | 31 | -14
+|Albertiziano | 4 | 6 | 1 | 4 | 1 | 15 | 32 | -17
+
+VINCITORI: Coppia Fastidio
+MIGLIOR ATTACCO: 
