@@ -51,7 +51,7 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 | 6 | Coppiziano | Alberniele | 6-2 | X
 | 7 | Coppiziano | Coppia Catapulta | 6-4 | X
 | 8 | Coppia del Fritto | Danieliziano | 6-4 | X
-| 9 | Coppia Furetti | Danieliziano | 5-3 | X
+| 9 | Coppia Furetti | Danieliziano | 3-5 | X
 | 10 | Coppia dei Mammalucchi | Coppia Furetti | 6-2 | X
 | 11 | Coppia del Fritto | Coppia Monopoly |  |
 | 12 | Coppia Fastidio | Albertiziano |  |
@@ -64,11 +64,11 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 |--------|:-----:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Coppiziano | 15 | 6 | 5 | 1 | 0 | 30 | 20 | 10
 |Coppia Fastidio | 12 | 5 | 4 | 1 | 0 | 27 | 18 | 9
-|Coppia Furetti | 12 | 6 | 4 | 2 | 0 | 24 | 22 | 2
 |Coppia dei Mammalucchi | 11 | 6 | 3 | 1 | 2 | 29 | 16 | 13
+|Coppia Furetti | 9 | 6 | 3 | 3 | 0 | 22 | 24 | -2
 |Coppia del Fritto | 6 | 4 | 2 | 2 | 0 | 21 | 17 | 4
 |Coppia Catapulta | 6 | 5 | 2 | 3 | 0 | 23 | 23 | 0
+|Danieliziano | 6 | 6 | 2 | 4 | 0 | 25 | 32 | -7
 |Coppia Monopoly | 4 | 4 | 1 | 2 | 1 | 12 | 19 | -7
 |Albertiziano | 4 | 5 | 1 | 3 | 1 | 13 | 26 | -13
 |Alberniele | 3 | 5 | 1 | 4 | 0 | 16 | 23 | -7
-|Danieliziano | 3 | 6 | 1 | 5 | 0 | 23 | 34 | -11
