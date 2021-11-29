@@ -77,4 +77,4 @@ VINCITORI: Coppia Fastidio
 
 MIGLIOR ATTACCO: Coppia Fastidio & Coppia del Fritto
 
-MIGLIOR DIFESA: 
+MIGLIOR DIFESA: Coppia dei Mammalucchi
