@@ -74,4 +74,7 @@ La partita può terminare prima dello scadere dei 5 minuti se una coppia raggiun
 |Albertiziano | 4 | 6 | 1 | 4 | 1 | 15 | 32 | -17
 
 VINCITORI: Coppia Fastidio
-MIGLIOR ATTACCO: 
+
+MIGLIOR ATTACCO: Coppia Fastidio & Coppia del Fritto
+
+MIGLIOR DIFESA: 
